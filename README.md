@@ -286,3 +286,8 @@ Demostrar capacidad en:
 - [ ] A/B testing simulado
 - [ ] API desplegada
 - [ ] Dashboard publicado
+
+---
+
+# 📚 Referencias
+- [DataSet: Default of Credit Card Clients - UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
